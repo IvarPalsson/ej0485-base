@@ -1,0 +1,41 @@
+p {
+  color: #333333;
+}
+
+#encabezado {
+  background-color: #05c3f8;
+}
+
+.destacado {
+  color: #ff6600;
+}
+
+.menu .item {
+  color: #ffffff;
+}
+
+h2.titulo-articulo {
+  color: #044591;
+}
+
+#lateral .especial {
+  background-color: #fffacd;
+}
+
+p, li {
+  color: #228b22;
+}
+
+.titulo, .titulo-articulo {
+  text-align: center;
+  color: #0000ff;
+}
+
+nav.menu {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 80%);
+}
+
+#pie .autor {
+  color: #ffffff;
+}
+
